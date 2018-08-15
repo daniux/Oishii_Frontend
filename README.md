@@ -26,15 +26,15 @@ package oishii.oishiiproject<br/>
         YelpApi.java<br/>
  <br/>
     layout file:<br/>
-        activity_control_panel.xml
-        activity_main.xml
-        activity_restaurant_grid.xml
-        activity_restaurant_map.xml
-        fragment_backend_list.xml
-        fragment_restaurant_grid.xml
-        fragment_restaurant_list.xml
-        restaurant_backend_item.xml
-        restaurant_item.xml
+        activity_control_panel.xml<br/>
+        activity_main.xml<br/>
+        activity_restaurant_grid.xml<br/>
+        activity_restaurant_map.xml<br/>
+        fragment_backend_list.xml<br/>
+        fragment_restaurant_grid.xml<br/>
+        fragment_restaurant_list.xml<br/>
+        restaurant_backend_item.xml<br/>
+        restaurant_item.xml<br/>
     
     
 
