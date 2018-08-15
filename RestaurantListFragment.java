@@ -67,16 +67,6 @@ public class RestaurantListFragment extends Fragment {
         // return inflater.inflate(R.layout.fragment_restaurant_list, container, false);
         View view = inflater.inflate(R.layout.fragment_restaurant_list, container, false);
         mListView = (ListView) view.findViewById(R.id.restuarant_list);
-        // mListView.setAdapter(new RestaurantAdapter(getActivity()));
-        /*
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(
-                getActivity(),
-                android.R.layout.simple_list_item_1,
-                getRestaurantsName());
-
-        // Assign adapter to ListView.
-        mListView.setAdapter(adapter);
-        */
         mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
