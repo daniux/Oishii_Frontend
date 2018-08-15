@@ -39,26 +39,7 @@ public class DataService {
             }
         };
     }
-
-
-
-
-    /**
-     * Fake all the restaurant data for now. We will refine this and connect
-     * to our backend later.
-     */
-    /*
-    public static List<Restaurant> getRestaurantData() {
-        List<Restaurant> restaurantData = new ArrayList<Restaurant>();
-        for (int i = 0; i < 10; ++i) {
-            restaurantData.add(
-                    new Restaurant("Restaurant", "1184 W valley Blvd, CA 90101",
-                            "Asian", i * 7 + 7, i * 5 - 5
-                    ));
-        }
-        return restaurantData;
-    }
-    */
+    
     /**
      * Get nearby restaurants through Yelp API.
      */
