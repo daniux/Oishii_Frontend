@@ -9,18 +9,32 @@ Frontend is based on Android platform.<br/>
 <br/>
 The basic code structure:<br/>
 package oishii.oishiiproject<br/>
-    BackendListFragment.java<br/>
-    Clock.java<br/>
-    ControlPanel.java<br/>
-    DataService.java<br/>
-    LocationTracker.java<br/>
-    MainActivity.java<br/>
-    Restaurant.java<br/>
-    RestaurantBackendAdapter.java<br/>
-    RestaurantGridActivity.java<br/>
-    RestaurantGridFragment.java<br/>
-    RestaurantListFragment.java<br/>
-    RestaurantMapActivity.java<br/>
-    TwoStepOAuth.java<br/>
-    YelpApi.java<br/>
+    source code:<br/>
+        BackendListFragment.java<br/>
+        Clock.java<br/>
+        ControlPanel.java<br/>
+        DataService.java<br/>
+        LocationTracker.java<br/>
+        MainActivity.java<br/>
+        Restaurant.java<br/>
+        RestaurantBackendAdapter.java<br/>
+        RestaurantGridActivity.java<br/>
+        RestaurantGridFragment.java<br/>
+        RestaurantListFragment.java<br/>
+        RestaurantMapActivity.java<br/>
+        TwoStepOAuth.java<br/>
+        YelpApi.java<br/>
+ <br/>
+    layout file:<br/>
+        activity_control_panel.xml
+        activity_main.xml
+        activity_restaurant_grid.xml
+        activity_restaurant_map.xml
+        fragment_backend_list.xml
+        fragment_restaurant_grid.xml
+        fragment_restaurant_list.xml
+        restaurant_backend_item.xml
+        restaurant_item.xml
+    
+    
 
