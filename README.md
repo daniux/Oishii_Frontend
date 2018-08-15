@@ -4,6 +4,7 @@ Oishii is a restaurant search and recommendation APP + service to improve person
 This backend includes a database and a java service to process data.<br/>
 I guess many of you will ask why do we need this? We have Yelp already.<br/>
 So the difference with Yelp: Oishii APP can provide personalization recommendation feature.<br/>
-
+<br/>
+Frontend is based on Android platform.<br/>
 
 
